@@ -122,7 +122,7 @@
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
         
-<a href="#">Kidos</a>
+<a href="#">KIDS</a>
     </div>
 </div>
 
